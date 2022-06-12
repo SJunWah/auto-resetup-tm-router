@@ -1,0 +1,11 @@
+{
+	"url" : "http://192.168.0.1",
+	"modemUsrname" : "",
+	"modemPwd" : "",
+	"tmUsrname" : "",
+	"tmPwd" : "",
+	"wifi2p4GhzName" : "",
+	"wifi5p0GhzName" : "",
+	"wifi2p4GhzPwd" : "",
+	"wifi5p0GhzPwd" : ""
+}

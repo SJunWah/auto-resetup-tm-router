@@ -1,0 +1,17 @@
+{
+  "name": "autoReSetupTMRouter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SJunWah",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "nightmare": "^3.0.2",
+    "nightmare-iframe": "^1.0.2",
+    "nightmare-iframe-manager": "0.0.4"
+  }
+}

@@ -9,9 +9,13 @@
   "author": "SJunWah",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.4.0",
+    "form-data": "^4.0.0",
     "fs": "0.0.1-security",
     "nightmare": "^3.0.2",
     "nightmare-iframe": "^1.0.2",
-    "nightmare-iframe-manager": "0.0.4"
+    "nightmare-iframe-manager": "0.0.4",
+    "node-wifi": "^2.0.16",
+    "qs": "^6.11.2"
   }
 }
